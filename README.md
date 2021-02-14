@@ -59,4 +59,7 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 
 ## Software
 
+- [Git](https://git-scm.com/)
 - [Visual Studio](https://code.visualstudio.com/Download)
+  - [VSCodium](https://vscodium.com/)
+  - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:

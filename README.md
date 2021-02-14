@@ -7,25 +7,39 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 - from some other list
 - other ideas?
 
+# Table of contents
+
+- [COTORON | Code Toronto](#cotoron--code-toronto)
+- [Table of contents](#table-of-contents)
+  - [Plan](#plan)
+  - [Tech stack](#tech-stack)
+  - [Communication](#communication)
+  - [Rules](#rules)
+  - [Miscellaneous](#miscellaneous)
+  - [Resources](#resources)
+  - [Software](#software)
 ## Plan
 
-- decide on a project
+- decide on a project ⁉
 - discuss the MVP 🏁
 - code
 - release
-  - keep it under 1 month
+  - keep it under 1 month 📆
     - first day of the month to last
+    - move on regardless
 - repeat ♻
 
 ## Tech stack
 
-- JavaScript
-  - Node
-  - React
-  - Express
-- Docker
+* Updated as we use them
 
-## Rules | ever growing
+## Communication
+
+- Slack 🔔
+- Email 📫
+- IRL 😷
+
+## Rules
 
 - do not spend too much time on the project name
   - what is too much time? 1 hr?
@@ -38,3 +52,11 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 - [ ] versioning
   - [ ] SemVer MAJOR.MINOR.PATCH
   - [ ] CalVer YYYY.MINOR.MICRO
+
+## Resources
+
+- [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+## Software
+
+- [Visual Studio](https://code.visualstudio.com/Download)

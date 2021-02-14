@@ -38,6 +38,7 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 - Slack 🔔
 - Email 📫
 - IRL 😷
+- Jitsi
 
 ## Rules
 

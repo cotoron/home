@@ -17,7 +17,6 @@ The purpose of this repo is to create a website to showcase the next 10 projects
   - [Rules](#rules)
   - [Miscellaneous](#miscellaneous)
   - [Resources](#resources)
-  - [Software](#software)
 ## Plan
 
 - decide on a project ⁉
@@ -36,7 +35,7 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 ## Communication
 
 - Slack 🔔
-- Email 📫
+- email 📫
 - IRL 😷
 - Jitsi
 
@@ -56,11 +55,12 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 
 ## Resources
 
-- [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-
-## Software
-
-- [Git](https://git-scm.com/)
-- [Visual Studio](https://code.visualstudio.com/Download)
-  - [VSCodium](https://vscodium.com/)
-  - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:
+- learning
+  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- open data
+  - [City of Toronto Open Data](https://open.toronto.ca/)
+- software
+  - [Git](https://git-scm.com/)
+  - [Visual Studio](https://code.visualstudio.com/Download)
+    - [VSCodium](https://vscodium.com/)
+    - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:

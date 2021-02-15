@@ -6,6 +6,8 @@ The purpose of this repo is to create a website to showcase the next 10 projects
 - previous projects (outside the 10 months)
 - from some other list
 - other ideas?
+- teibi
+- batmen
 
 # Table of contents
 
@@ -17,6 +19,7 @@ The purpose of this repo is to create a website to showcase the next 10 projects
   - [Rules](#rules)
   - [Miscellaneous](#miscellaneous)
   - [Resources](#resources)
+
 ## Plan
 
 - decide on a project ⁉

@@ -1,19 +1,13 @@
 # COTORON | Code Toronto
 
-The purpose of this repo is to create a website to showcase the next 10 projects (one per month). Yes, like a monthly hackathon. The idea is that we (and whomever wants to join) work together on a single project per month. We haven't decided on the projects yet and currently we don't have a theme. We could pick from the following list to create the 10 projects:
-
-- internally
-- previous projects (outside the 10 months)
-- from some other list
-- other ideas?
-- teibi
-- batmen
+The purpose of this repo is to create a website to showcase the next 10 projects (one per month). Yes, like a monthly hackathon. The idea is that we (and whomever wants to join) work together on a single project per month. We haven't decided on the projects yet and currently we don't have a theme.
 
 # Table of contents
 
 - [COTORON | Code Toronto](#cotoron--code-toronto)
 - [Table of contents](#table-of-contents)
   - [Plan](#plan)
+  - [Ideas](#ideas)
   - [Tech stack](#tech-stack)
   - [Communication](#communication)
   - [Rules](#rules)
@@ -30,6 +24,10 @@ The purpose of this repo is to create a website to showcase the next 10 projects
     - first day of the month to last
     - move on regardless
 - repeat ♻
+
+## Ideas
+
+[Ideas](./IDEAS.md)
 
 ## Tech stack
 

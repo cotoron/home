@@ -7,3 +7,4 @@ We could pick from the following list to create the 10 projects:
 - teibi
 - batmen
 - ❓❔🙋‍♀️🙋‍♂️
+- vote app

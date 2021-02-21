@@ -1,6 +1,6 @@
-# COTORON | Code Toronto
+# [COTORON](https://cotoron.ga/) | Code Toronto
 
-The purpose of this repo is to create a website to showcase the next 10 projects (one per month). Yes, like a monthly hackathon. The idea is that we (and whomever wants to join) work together on a single project per month. We haven't decided on the projects yet and currently we don't have a theme.
+The purpose of this repo is to create a website [https://cotoron.ga/](https://cotoron.ga/) to showcase the next 10 projects (one per month). Yes, like a monthly hackathon. The idea is that we (and whomever wants to join) work together on a single project per month. We haven't decided on the projects yet and currently we don't have a theme.
 
 # Table of contents
 

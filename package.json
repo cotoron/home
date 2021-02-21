@@ -1,0 +1,29 @@
+{
+  "name": "cotoron",
+  "version": "21.02.00",
+  "description": "Group Portfolio",
+  "main": "index.html",
+  "repository": "git@github.com:cotoron/home.git",
+  "scripts": {
+    "sass": "sass -s compressed ./source/sass/cotoron.sass ./docs/css/cotoron.min.css"
+  },
+  "authors": [
+    {
+      "name": "Yuka",
+      "role": "Creator"
+    },
+    {
+      "name": "Sayaka",
+      "role": "Creator"
+    },
+    {
+      "name": "Héctor",
+      "email": "simple elpmis <simple@elpm.is>",
+      "role": "Creator"
+    }
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}

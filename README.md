@@ -11,8 +11,8 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
   - [Tech stack](#tech-stack)
   - [Communication](#communication)
   - [Rules](#rules)
+  - [Reference](#reference)
   - [Miscellaneous](#miscellaneous)
-  - [Resources](#resources)
 
 ## Plan
 
@@ -45,6 +45,10 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
 - do not spend too much time on the project name
   - what is too much time? 1 hr?
 
+## Reference
+
+[Reference](./REFERENCE.md)
+
 ## Miscellaneous
 
 - [ ] decide if we want to use a wiki
@@ -53,15 +57,3 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
 - [ ] versioning
   - [ ] SemVer MAJOR.MINOR.PATCH
   - [ ] CalVer YYYY.MINOR.MICRO
-
-## Resources
-
-- learning
-  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-- open data
-  - [City of Toronto Open Data](https://open.toronto.ca/)
-- software
-  - [Git](https://git-scm.com/)
-  - [Visual Studio](https://code.visualstudio.com/Download)
-    - [VSCodium](https://vscodium.com/)
-    - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:

@@ -18,3 +18,15 @@
 ## stackoverflow
 
 - https://stackoverflow.com/questions/40713752/how-to-open-browser-to-localhost-through-npm-scripts
+
+## Resources
+
+- learning
+  - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- open data
+  - [City of Toronto Open Data](https://open.toronto.ca/)
+- software
+  - [Git](https://git-scm.com/)
+  - [Visual Studio](https://code.visualstudio.com/Download)
+    - [VSCodium](https://vscodium.com/)
+    - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:

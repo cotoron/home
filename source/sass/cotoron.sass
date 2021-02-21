@@ -1,7 +1,9 @@
 // Google Fonts
-@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap)
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap')
 
-$lato: 'Lato', sans-serif
+$fonta: 'Alegreya Sans', sans-serif
+$fontb: 'Nunito Sans', sans-serif
 
 // SASS reset
 *, *:before, *:after
@@ -13,7 +15,7 @@ html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockq
     border: 0
     font-size: 100%
     font: inherit
-    font-family: $lato
+    font-family: $fonta
     vertical-align: baseline
     text-rendering: optimizeLegibility
     -webkit-font-smoothing: antialiased
@@ -47,3 +49,11 @@ h1
     font-size: xxx-large
     text-align: center
     margin-top: 33vh
+
+h2
+    font-family: $fontb
+    font-size: xx-large
+    text-align: center
+
+.rotate7
+    transform: rotate(-7deg)

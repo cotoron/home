@@ -1,3 +1,5 @@
+[README](./README.md)
+
 We could pick from the following list to create the 10 projects:
 
 - internally
@@ -8,3 +10,5 @@ We could pick from the following list to create the 10 projects:
 - batmen
 - ❓❔🙋‍♀️🙋‍♂️
 - vote app
+
+[README](./README.md)

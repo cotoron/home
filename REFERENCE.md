@@ -9,3 +9,12 @@
 ## PUG
 
 - https://pugjs.org/api/getting-started.html
+
+## NPM
+
+- https://www.npmjs.com/package/concurrently
+- https://www.npmjs.com/package/http-server
+
+## stackoverflow
+
+- https://stackoverflow.com/questions/40713752/how-to-open-browser-to-localhost-through-npm-scripts

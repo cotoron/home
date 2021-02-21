@@ -8,7 +8,9 @@
     "sass": "sass -s compressed ./source/sass/cotoron.sass ./docs/css/cotoron.min.css",
     "pug": "pug source/pages/index.pug -o docs",
     "build": "yarn run sass && yarn run pug",
-    "mon": "nodemon -e sass,pug --watch source --exec \"yarn run build\""
+    "serve": "reload -b -d docs/ -p 9090 ",
+    "mon": "nodemon -e sass,pug --watch source --exec \"yarn run build\"",
+    "dev": "concurrently \"yarn run serve\" \"yarn run mon\""
   },
   "authors": [
     {
@@ -27,8 +29,10 @@
   ],
   "license": "UNLICENSED",
   "dependencies": {
+    "concurrently": "^6.0.0",
     "nodemon": "^2.0.7",
     "pug-cli": "^1.0.0-alpha6",
+    "reload": "^3.1.1",
     "sass": "^1.32.8"
   }
 }

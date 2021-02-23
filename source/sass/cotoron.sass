@@ -5,10 +5,35 @@
 $fonta: 'Alegreya Sans', sans-serif
 $fontb: 'Nunito Sans', sans-serif
 
-$bgone: #fdff99
-$bgtwo: #99ffaa
+$colour1: #3F969C
+$colour2: #B0D2C0
+$colour3: #F0EBD8
+$colour4: #E47E64
+$colour5: #EEB35A
 
 @import reset.sass
+
+.c1
+    color: $colour1
+.c2
+    color: $colour2
+.c3
+    color: $colour3
+.c4
+    color: $colour4
+.c5
+    color: $colour5
+
+.b1
+    background-color: $colour1
+.b2
+    background-color: $colour2
+.b3
+    background-color: $colour3
+.b4
+    background-color: $colour4
+.b5
+    background-color: $colour5
 
 h1
     font-size: 3rem
@@ -21,15 +46,14 @@ h2
     text-align: center
 
 .stamp
-    box-shadow: 0 0 0 3px gray, 0 0 0 2px gray inset
+    box-shadow: 0 0 0 3px $colour3, 0 0 0 2px $colour3 inset
     border: 2px solid transparent
     border-radius: 0px
     padding: 5px 2px
     line-height: 1em
-    color: gray
     font-size: 2em
     text-transform: uppercase
-    opacity: 0.4
+    opacity: 0.2
     width: 155px
     transform: rotate(-7deg)
 
@@ -40,8 +64,19 @@ h2
 
 #one
     height: 50vh
-    background-color: $bgone
 
 #two
     height: 50vh
-    background: linear-gradient(to bottom right, $bgone 50%, $bgtwo 50%)
+    background: linear-gradient(to bottom right, $colour1 50%, $colour2 50%)
+
+#three
+    height: 50vh
+    background: linear-gradient(to bottom right, $colour2 50%, $colour3 50%)
+
+#four
+    height: 50vh
+    background: linear-gradient(to bottom right, $colour3 50%, $colour4 50%)
+
+#five
+    height: 50vh
+    background: linear-gradient(to bottom right, $colour4 50%, $colour5 50%)

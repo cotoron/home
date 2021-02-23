@@ -6,7 +6,7 @@
   "repository": "git@github.com:cotoron/home.git",
   "scripts": {
     "sass": "sass -s compressed ./source/sass/cotoron.sass ./docs/css/cotoron.min.css",
-    "pug": "pug source/pages/index.pug -O {cachenum:3} -o docs",
+    "pug": "pug source/pages/index.pug -O {cachenum:21022301} -o docs",
     "build": "yarn run sass && yarn run pug",
     "serve": "reload -b -d docs/ -p 9090 ",
     "mon": "nodemon -e sass,pug --watch source --exec \"yarn run build\"",

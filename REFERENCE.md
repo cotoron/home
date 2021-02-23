@@ -16,6 +16,8 @@
 
 - https://www.npmjs.com/package/concurrently
 - https://www.npmjs.com/package/http-server
+- switch to gulp?
+  - https://deliciousbrains.com/npm-build-script/
 
 ## stackoverflow
 

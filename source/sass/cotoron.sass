@@ -34,36 +34,46 @@ $colour5: #EEB35A
     background-color: $colour4
 .b5
     background-color: $colour5
+a
+    text-decoration: none
+nav
+    padding: 1rem
+    .logo
+        font-size: 2.5rem
+    ul
+        float: right
+        list-style-type: none
+        margin: 0
+        padding: 0
+        font-size: 2rem
+    li
+        display: inline
+        padding: 1rem
+        a:hover
+            color: $colour5
 
-h1
-    font-size: 3rem
-    text-align: center
-    padding-top: 33vh
-
-h2
-    font-family: $fontb
-    font-size: 2rem
-    text-align: center
+.stampcontainer
+    position: absolute
+    top: 3rem
+    left: 5rem
 
 .stamp
     box-shadow: 0 0 0 3px $colour3, 0 0 0 2px $colour3 inset
     border: 2px solid transparent
     border-radius: 0px
     padding: 5px 2px
-    line-height: 1em
-    font-size: 2em
+    line-height: .5em
+    font-size: 1em
     text-transform: uppercase
     opacity: 0.2
     width: 155px
     transform: rotate(-7deg)
-
-.stampcontainer
-    width: 100%
-    display: flex
-    justify-content: center
+    font-family: $fontb
+    text-align: center
 
 #one
     height: 70vh
+    background: $colour1
 
 #two
     height: 80vh

@@ -8,8 +8,8 @@ html(lang="en")
         meta(name="description", content="Cotoron is an experimental coding project started in Toronto with a group of friends. We start a new 30-day sprint project each month and repeat. Check out what we’re building and our journey!")
         link(rel="stylesheet", href="./css/cotoron.min.css?cache="+cachenum) 
     body.b1
-        div.b1#one
-            h1
+        nav
+            span.logo
                 span.c2 C
                 span.c2 O
                 span.c3 T
@@ -19,8 +19,15 @@ html(lang="en")
                 span.c3 N
                 span.c4 .
                 span.c5 GA
-            div.stampcontainer
+            span.stampcontainer
                 h2.stamp.c3 since 2021
+            span
+                ul
+                    each val in ["Code","Project","Team","About"]
+                        li
+                            a.c3(href='#') #{val}
+                        
+        div#one 
         div#two
         div#three
         div#four

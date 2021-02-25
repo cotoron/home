@@ -7,8 +7,8 @@ html(lang="en")
         title Cotoron | Code Toronto | Monthly Coding Hackathon
         meta(name="description", content="Cotoron is an experimental coding project started in Toronto with a group of friends. We start a new 30-day sprint project each month and repeat. Check out what we’re building and our journey!")
         link(rel="stylesheet", href="./css/cotoron.min.css?cache="+cachenum) 
-    body.b1
-        nav
+    body
+        nav.flexcontainer.spaceBetween.b1
             span.logo
                 span.c2 C
                 span.c2 O
@@ -21,11 +21,18 @@ html(lang="en")
                 span.c5 GA
             span.stampcontainer
                 h2.stamp.c3 since 2021
-            span.pr
+            span
                 ul
                     each val in ["Code","Project","Team","About"]
                         li
                             a.c3(href='#') #{val}
+        div#intro.b1.flexcontainer.justifyCenter
+            div.flexcontainer.w75
+                h1
+                    span.c3 Code 
+                    span.c5 + 
+                    span.c3 Toronto
+                p.c3 Cotoron is an experimental coding project started in Toronto with a group of friends. We start a new 30-day sprint project each month and repeat. Check out what we’re building and our journey!
         div.one
             div.language.c2 html
             div.projects.flexend

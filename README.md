@@ -8,11 +8,13 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
 - [Table of contents](#table-of-contents)
   - [Plan](#plan)
   - [Ideas](#ideas)
+  - [Projects](#projects)
   - [Tech stack](#tech-stack)
   - [Communication](#communication)
   - [Rules](#rules)
   - [Reference](#reference)
   - [Miscellaneous](#miscellaneous)
+  - [Scenarios](#scenarios)
 
 ## Plan
 
@@ -28,6 +30,10 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
 ## Ideas
 
 [Ideas](./IDEAS.md)
+
+## Projects
+
+[Projects](./projects/README.md)
 
 ## Tech stack
 
@@ -57,3 +63,25 @@ The purpose of this repo is to create a website [https://cotoron.ga/](https://co
 - [ ] versioning
   - [ ] SemVer MAJOR.MINOR.PATCH
   - [ ] CalVer YYYY.MINOR.MICRO
+
+## Scenarios
+
+- Scenario One
+  - We pick a project
+  - the project doesnt matter is more about
+  - the technology we use
+  - the paths we take
+  - the schedule we set
+  - the help we give each other
+- Scenario Two
+  - we all pick a project
+  - we all work individually on that project (while sharing)
+  - we can choose whatever focus we want
+  - research, tech stack, ui, ux, etc
+  - we do a presentation to the rest of the group
+- Scenario Three
+  - we all take turns in leading a project, any project
+- Scenario Four
+  - We pick a tech stack and do weekly meetings of what is cool about it. for one month
+- Scenario Five
+  - any other ideas?

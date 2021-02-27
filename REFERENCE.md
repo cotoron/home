@@ -36,4 +36,10 @@
     - >Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:
 - https://www.schemecolor.com/
 
+### GIT Lists
+
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
+  - > A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+
 [README](./README.md)

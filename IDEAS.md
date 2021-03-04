@@ -10,5 +10,6 @@ We could pick from the following list to create the 10 projects:
 - batmen
 - ❓❔🙋‍♀️🙋‍♂️
 - vote app
+- api for rejection letters
 
 [README](./README.md)

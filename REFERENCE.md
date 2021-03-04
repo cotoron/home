@@ -43,3 +43,7 @@
 
 
 [README](./README.md)
+
+## Lnks
+
+- [50-common-interview-questions](https://www.glassdoor.co.uk/blog/50-common-interview-questions/)
